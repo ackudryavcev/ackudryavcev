@@ -4,6 +4,11 @@
 - 💞️ Looking for collaboration on any entry level web development projects
 - 📫 You can contact me [over there](https://www.linkedin.com/in/ackudryavcev/)
 
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ackudryavcev)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 ackudryavcev/ackudryavcev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
