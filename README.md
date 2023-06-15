@@ -3,7 +3,6 @@
 - 🌱 I recently graduated from HackYourFuture school which gave me a lot of knowledge and experience to become a web developer.
 - 💞️ Looking for collaboration on any entry level web development projects
 - 📫 You can contact me [over there](https://www.linkedin.com/in/ackudryavcev/)
-- 
 
 <!---
 ackudryavcev/ackudryavcev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
