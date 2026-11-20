@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Aleksei or just Alex.
-- 💻 I’m a web developer at Orange Studio, where I’ve worked for the past three years. I’m particularly interested in JavaScript.
-- 🌱 I’m a HackYourFuture graduate.
-- 🌍 In my free time, I enjoy traveling, running, and reading.
-- 📫 You can contact me [over there](https://www.linkedin.com/in/ackudryavcev/)
+Hi, I’m Aleksei (Alex), a web developer at Orange Studio. Over the past three years, I’ve worked on client websites, including building custom functionality for WordPress sites and working with multilingual setups using WPML.
 
-
+[Connect with me on LinkedIn](https://www.linkedin.com/in/ackudryavcev/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ackudryavcev)](https://github.com/anuraghazra/github-readme-stats)
 
